@@ -1,1 +1,1 @@
-# StudyBuddy1
+# AI-Study-Buddy
